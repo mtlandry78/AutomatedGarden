@@ -1,5 +1,10 @@
 # gardenAutomation
 
+Credit to ledgardener/gardenautomation for the inspiration and foundation. My intent is to build upon the framework he created and modify according to my situation. 
+Apologies if any of this has been done incorrectly, & while I have some coding experience; I'm a wrench monkey, not a code monkey, I'm learning as I go. XD
+Original git found at https://github.com/ledgardener/gardenAutomation
+
+# Original README text by ledgardener
 I'm new to github and writing code in general so please bear with me. This project is literally my first go at programming something and I'm having a blast. Experienced programmers may be scratching their heads at the way I've done some things but I'm learning and am always looking to improve. Over the past few weeks I've been trying to clean up my code and add as many useful comments as I can. Since I first posted my Home Assistant configuration files, I've made some significant changes to my MQTT topics and payloads that go back and forth between the Pi and the control box in order to make things more understandable and logical. I hope I've succeeded in my goal.
 
 **I want to stress that I'm just a hobbyist and am not guaranteeing any of my electronics work or code. I'm no expert but am eager to share what I have, and while this system works for me, if you decide to make use of any of its components, it's up to you to vet yours and ensure everything is safe and compatible. You should always have a back-up plan to stop/drain water somehow in case of an overflow - I have an overflow drain line on each of my basins/reservoirs as well as float valves.** 
